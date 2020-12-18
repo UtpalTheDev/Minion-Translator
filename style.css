@@ -20,6 +20,7 @@ textarea{
     width:80px;
     right:40% ;
     left:40%;
+    cursor:pointer;
     
 }
 
@@ -28,11 +29,11 @@ textarea{
     
     background-color: rgb(236, 231, 231);
     font-style:italic;
-    width:70%;
+    width:40vw;
     height:20px;
     padding: 2rem;
     border-radius: 1rem;
-    overflow:scroll;
+    overflow:auto;
     margin:15px auto;
     color:black;
     font-size: 13px;
